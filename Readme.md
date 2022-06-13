@@ -19,7 +19,7 @@ C# Minecraft & Lunar Grabber (Session ID & Access Token & UUID & Username)
 
 ## Pics
 
-![You Enjoy](https://github.com/Pickleft/MC-Grabber/blob/master/Discord_hHZKRt4vDV.png)
+![Preview](https://github.com/Pickleft/MC-Grabber/blob/master/Discord_hHZKRt4vDV.png)
 
 
 ## Usage
