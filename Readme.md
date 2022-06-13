@@ -33,7 +33,7 @@ C# Minecraft & Lunar Grabber (Session ID & Access Token & UUID & Username)
     * Replace `Account.json` In Your `.lunarclient\settings\game` Directory
 
 * Minecraft
-    * I am not sure but there is a mod that makes it possible.
+    * I am not sure but there is a mod that makes it possible. // dm me on discord if you know
 
 ## Authors
 
