@@ -29,10 +29,10 @@ C# Minecraft & Lunar Grabber (Session ID & Access Token & UUID & Username)
 
 ## Logging To Session ID
 * Lunar
-    *Replace `Account.json` In Your `.lunarclient\settings\game` Directory
+    * Replace `Account.json` In Your `.lunarclient\settings\game` Directory
 
 * Minecraft
-    *I am not sure but there is a mod that makes it possible.
+    * I am not sure but there is a mod that makes it possible.
 
 ## Authors
 
