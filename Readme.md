@@ -3,6 +3,7 @@
 ---> Educational Purposes Only. <---
 
 C# Minecraft & Lunar Grabber (Session ID & Access Token & UUID & Username)
+   * Discord Webhook Based.
 
 ## Features 
 
