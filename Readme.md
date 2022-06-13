@@ -45,8 +45,7 @@ Contributors names and contact info
 
 ## Version History
 
-* V1
-    * Initial Release
+* None
 
 ## License
 
