@@ -24,6 +24,7 @@ C# Minecraft & Lunar Grabber (Session ID & Access Token & UUID & Username)
 ## Usage
 
 * Paste Your Webhook In Program.cs
+* Checkout `Grab.cs`
 
 ## Authors
 
