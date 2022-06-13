@@ -4,7 +4,7 @@
 
 C# Minecraft & Lunar Grabber (Session ID & Access Token & UUID & Username)
    * Discord Webhook Based.
-      * Support me By Pressing "Star" On Repo
+      * Support Me By A Star
 
 ## Features 
 
