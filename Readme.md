@@ -1,5 +1,8 @@
 # MC-Grabber
 
+
+#### OUTDATED FOR NOW (2023/30/03) WILL BE FIXED LATER.
+
 ---> Educational Purposes Only <---
 
 C# Minecraft & Lunar Grabber (Session ID & Access Token & UUID & Username)
